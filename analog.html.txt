@@ -1,1 +1,2 @@
 <h1>Moja Strona</h1>
+<p>Amor patriae nostra lex </p>
